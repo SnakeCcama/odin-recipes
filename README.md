@@ -1,3 +1,3 @@
 # odin-recipes
 
-My first html website after going through the basics
+My first html webpage after going through the basics
